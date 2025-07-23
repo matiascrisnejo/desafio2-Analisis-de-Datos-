@@ -29,8 +29,7 @@ Este repositorio contiene el desarrollo completo del proceso ETL (Extracción, T
 #### 🏷️ Renombramiento y creación de nuevas variables:
 
 - Ejemplo:  
-  ```python
-  DailyCharges = ChargesMonthly / 30
+  `DailyCharges = ChargesMonthly / 30`
 #### 🏷️ Conversión de variables categóricas a binarias:
 
 - Ejemplo: `Yes`/`No` -> `1`/ `0`
